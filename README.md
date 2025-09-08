@@ -1,4 +1,4 @@
-# 📌 AI To-Do Manager
+# 📌 AI Task Manager
 
 An interactive task manager that uses **AI to auto-generate tasks** based on your prompt.  
 Tasks can also be added manually, tracked, and stored locally in the browser.  
